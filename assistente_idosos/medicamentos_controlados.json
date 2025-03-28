@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Paracetamol",
+        "horario": "08:00",
+        "dosagem": "500mg"
+    },
+    {
+        "nome": "Losartana",
+        "horario": "12:00",
+        "dosagem": "50mg"
+    },
+    {
+        "nome": "Omeprazol",
+        "horario": "20:00",
+        "dosagem": "20mg"
+    }
+]
